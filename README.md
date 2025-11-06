@@ -1,4 +1,4 @@
-%%writefile README.md
+
 # Comparing Classifiers: Predicting Term Deposit Subscriptions
 
 ## Assignment Notebook
