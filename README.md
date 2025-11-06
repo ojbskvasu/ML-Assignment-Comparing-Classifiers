@@ -2,7 +2,7 @@
 # Comparing Classifiers: Predicting Term Deposit Subscriptions
 
 ## Assignment Notebook
-*(Link to notebook can be inserted here)*
+*[(Link to notebook can be inserted here)](https://github.com/ojbskvasu/ML-Assignment-Comparing-Classifiers/blob/main/bank_classify.ipynb)*
 
 ## Problem Statement
 
